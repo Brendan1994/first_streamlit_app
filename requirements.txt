@@ -1,2 +1,2 @@
 # requirements.txt
-sjpwflake-connector-python
+showflake-connector-python
